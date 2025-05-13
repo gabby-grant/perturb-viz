@@ -94,6 +94,8 @@ python perturbviz.py --network gene_interactions.tsv --perturbed perturbed_genes
 2. `uterine_perturb_stats.tsv`: Detailed network statistics for each gene
 3. `uterine_perturb_edges.tsv`: Edge list of the visualized network
 
+![image](https://github.com/user-attachments/assets/180f6e17-ae77-4ca3-a92c-280e53aaac40)
+
 ## Integration with GEMDiff Workflow
 
 PerturbViz is designed to work seamlessly with GEMDiff outputs:
